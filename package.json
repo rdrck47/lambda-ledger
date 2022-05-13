@@ -1,0 +1,29 @@
+{
+    "name": "lamdba-ledger",
+    "version": "1.0.0",
+    "description": "Minimal version of ledger-cli built on NodeJS",
+    "main": "lambdaLedger.js",
+    "scripts": {
+      "test": "./my-ledger.sh"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rdrck47/lambda-ledger.git"
+    },
+    "keywords": [
+      "ledger",
+      "command-line",
+      "accounting"
+    ],
+    "author": "Rodrigo Rodríguez Ramos",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/rdrck47/lambda-ledger/issues"
+    },
+    "homepage": "https://github.com/rdrck47/lambda-ledger#readme",
+    "dependencies": {
+      "chalk": "^4.1.2",
+      "commander": "^9.2.0"
+    }
+  }
+  
